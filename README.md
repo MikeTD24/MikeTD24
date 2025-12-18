@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Bonjour, je suis Mike
 
-<!--
-**MikeTD24/MikeTD24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Développeur polyvalent en formation / autodidacte  
+💻 Intéressé par le développement web et logiciel
 
-Here are some ideas to get you started:
+## 🛠️ Compétences techniques
+- Langages : Python · Java · PHP · SQL · JavaScript · HTML · CSS
+- Outils : Git · GitHub · VS Code . Eclipse. WAMP & MYSQL Workbench 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projets
+- **Portfolio web** – HTML / CSS / JavaScript  
+- **Scripts Python** – Automatisation & analyse  
+- **Projet Java** – Application orientée objet  
+- **Back-end PHP & SQL** – Gestion de base de données
+
+👉 Tous mes projets sont disponibles ici :  
+🔗 https://github.com/MikeTD24?tab=repositories
+
+## 📫 Contact
+- GitHub : https://github.com/MikeTD24
+
